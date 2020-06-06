@@ -10,10 +10,20 @@ In order to pass this project one must complete the [rubric points][Rubric Point
 
 ```
 .build-my-world                    # Build My World Project 
+├── docs
+├── images
 ├── model                          # Model files 
-│   └── kart
-│       ├── model.config
-│       └── model.sdf   
+│   ├── floor-blueprint
+│   |    ├── model.config
+|   |    └── model.sdf
+│   |
+|   ├── kart 
+│   |    ├── model.config
+|   |    └── model.sdf
+│   |
+|   └── robot
+│        ├── model.config
+|        └── model.sdf      
 ├── script                         # Gazebo World plugin C++ script      
 │   └── welcome.cpp
 ├── world                          # Gazebo main World containing models 
