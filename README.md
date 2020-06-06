@@ -45,7 +45,5 @@ This project follows [Google's C++ Style Guide].
 [Make for Windows]: http://gnuwin32.sourceforge.net/packages/make.htm
 [MinGW]: http://www.mingw.org
 [Google's C++ Style Guide]: https://google.github.io/styleguide/cppguide.html
-[Documentation]: docs/
-[Data Generation]: docs/GeneratingData.md
 [Rubric Points]: docs/RubricPoints.md
 [.clang-format]: .clang-format
